@@ -1,5 +1,5 @@
 # AI-Game
-Challenging AI as an ant survivor simulation
+Challenging AI as an ant survivor simulation (AI Searching based)
 
 pict :
 
